@@ -1,0 +1,11 @@
+plugin:
+    name: 'test.test::lang.plugin.name'
+    description: 'test.test::lang.plugin.description'
+    author: test
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'test.test::lang.plugin.name'
+        url: test/test/test
+        icon: icon-life-ring

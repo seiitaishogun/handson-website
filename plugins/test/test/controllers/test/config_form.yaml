@@ -1,0 +1,10 @@
+name: Test
+form: $/test/test/models/test/fields.yaml
+modelClass: Test\Test\Models\Test
+defaultRedirect: test/test/test
+create:
+    redirect: 'test/test/test/update/:id'
+    redirectClose: test/test/test
+update:
+    redirect: test/test/test
+    redirectClose: test/test/test

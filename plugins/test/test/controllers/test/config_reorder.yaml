@@ -1,0 +1,4 @@
+title: Test
+modelClass: Test\Test\Models\Test
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,20 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table test_test_'
+    - builder_table_create_test_test_.php
+1.0.3:
+    - 'Updated table test_test_'
+    - builder_table_update_test_test_.php
+1.0.4:
+    - 'Updated table test_test_'
+    - builder_table_update_test_test__2.php
+1.0.5:
+    - 'Drop table test_test_'
+    - builder_table_delete_test_test_.php
+1.0.6:
+    - 'Created table test_test_test'
+    - builder_table_create_test_test_test.php
+1.0.7:
+    - 'Updated table test_test_test'
+    - builder_table_update_test_test_test.php
